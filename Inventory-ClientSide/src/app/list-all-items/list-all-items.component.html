@@ -1,0 +1,15 @@
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 ">
+      <h1 class="h3 mt-5 mb-3 font-weight-normal"> Inventory Items List </h1>
+      <a class="btn btn-xs btn-primary mt-1" href="/items/new">Add New Item</a>
+      <ul class="mt-5 mb-5" *ngFor="let item of items">
+        <li>
+          Item ID Number: {{item.number}}
+        </li>
+        <a class="btn btn-xs btn-primary mt-1" href="/items/{{item.number}}">More Info</a>
+      </ul>
+    </div>
+  </div>
+</div>
