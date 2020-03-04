@@ -35,9 +35,16 @@ git clone https://github.com/amirf2/OpenLegacy-ServerSide.git
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
-### Development server
+### Running this project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Execute in CMD\Terminal:
+
+```
+npm install
+npm start
+``` 
+
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ### Code scaffolding
 
