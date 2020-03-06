@@ -8,7 +8,7 @@
   Use docker image or clone this repository.
   
 ### Docker
-visit [Amir's Docker](https://hub.docker.com/r/amirf2/openlegacy_home_ex/) to acquire the image
+visit [Amir's Docker](https://hub.docker.com/repository/docker/amirf2/inventory_app_server) to acquire the image
 
 ### Cloning and running this project 
 * Prerequisites:
